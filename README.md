@@ -83,9 +83,6 @@ Research project aimed at predicting inflation behavior through economic indicat
 </a>
 
 ---
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=langulomogollon&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=langulomogollon&layout=compact&theme=tokyonight"/>
 
 <img src="https://streak-stats.demolab.com?user=langulomogollon&theme=tokyonight" />
 
