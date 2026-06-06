@@ -77,8 +77,9 @@ Research project aimed at predicting inflation behavior through economic indicat
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+
 <a href="mailto:langulomogollon@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src=[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:langulomogollon@gmail.com)&logoColor=white"/>
 </a>
 </p>
 ---
