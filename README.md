@@ -69,29 +69,6 @@ Research project aimed at predicting inflation behavior through economic indicat
 
 **Technologies:** Python, Data Analytics, Machine Learning.
 
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=langulomogollon&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=langulomogollon&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO_GITHUB&theme=tokyonight" />
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
