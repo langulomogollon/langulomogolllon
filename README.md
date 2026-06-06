@@ -81,6 +81,7 @@ Research project aimed at predicting inflation behavior through economic indicat
 <a href="mailto:langulomogollon@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 ---
 
 ## 🎯 Professional Interests
