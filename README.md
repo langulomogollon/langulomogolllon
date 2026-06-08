@@ -60,6 +60,7 @@ Especializado en modelamiento de datos, SQL Server, Power BI y análisis avanzad
 
 Machine Learning project focused on predicting mortality risk in leukemia patients through classification algorithms and clinical data analysis.
 
+**Technologies:** Python, Pandas, Scikit-Learn, Machine Learning.
 ---
 
 
