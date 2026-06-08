@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Leonardo Martín Angulo Mogollón
+# Leonardo Martín Angulo Mogollón
 
 ### 📊 Senior Data Analyst | Data Analytics | Machine Learning Engineer | SQL Server Specialist
 
