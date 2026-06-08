@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
 Ingeniero de Sistemas con experiencia en análisis de datos, inteligencia de negocios y explotación de información para la toma de decisiones estratégicas.
 
@@ -19,7 +19,7 @@ Especializado en modelamiento de datos, SQL Server, Power BI y análisis avanzad
 
 ---
 
-## 🏅 Databricks Certifications
+## 🏅 Certificaciones Databricks
 
 ![Databricks](https://img.shields.io/badge/Databricks-AI%20Agent%20Fundamentals-red?style=for-the-badge&logo=databricks)
 ![Databricks](https://img.shields.io/badge/Databricks-Azure%20Platform%20Architect-red?style=for-the-badge&logo=databricks)
@@ -29,7 +29,7 @@ Especializado en modelamiento de datos, SQL Server, Power BI y análisis avanzad
 
 ---
 
-## 💻 Tech Stack
+## 💻 Stack Tecnológico
 
 ### Data Analytics
 
@@ -52,7 +52,7 @@ Especializado en modelamiento de datos, SQL Server, Power BI y análisis avanzad
 
 ---
 
-## 📂 Featured Projects
+## 📂 Proyectos
 
 ### 🔬 Leukemia Patient Mortality Prediction using Machine Learning
 
@@ -73,7 +73,7 @@ Research project aimed at predicting inflation behavior through economic indicat
 **Technologies:** Python, Pandas, Scikit-Learn, Machine Learning.
 
 
-## 🌐 Connect With Me
+## 🌐 Conecta conmigo
 
 <p align="left">
 <a href="https://www.linkedin.com/in/leonardo-martín-angulo-mogollón">
@@ -90,7 +90,7 @@ Research project aimed at predicting inflation behavior through economic indicat
 <img src="https://streak-stats.demolab.com?user=langulomogollon&theme=tokyonight" />
 
 
-## 🎯 Professional Interests
+## 🎯 Intereses Profesionales
 
 ✔ Data Analytics  
 ✔ Business Intelligence  
