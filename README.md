@@ -56,16 +56,18 @@ Especializado en modelamiento de datos, SQL Server, Power BI y análisis avanzad
 
 ### 🔬 Leukemia Patient Mortality Prediction using Machine Learning
 
-Machine Learning project focused on predicting mortality risk in leukemia patients through classification algorithms and clinical data analysis.
+[📂 View Repository](https://github.com/langulomogollon/leucemia-mortality-prediction)
 
-**Technologies:** Python, Pandas, Scikit-Learn, Machine Learning.
+Machine Learning project focused on predicting mortality risk in leukemia patients through classification algorithms and clinical data analysis.
 
 ---
 
-<a href="https://github.com/langulomogollon/inflation-forecasting-peru-random-forest">📈 Inflation Forecasting in Peru using Machine Learning</a>
+
+###  📈 Inflation Forecasting in Peru using Machine Learning
+
 Research project aimed at predicting inflation behavior through economic indicators and predictive analytics techniques.
 
-**Technologies:** Python, Data Analytics, Machine Learning.
+**Technologies:** Python, Pandas, Scikit-Learn, Machine Learning.
 
 
 ## 🌐 Connect With Me
