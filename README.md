@@ -62,7 +62,6 @@ Machine Learning project focused on predicting mortality risk in leukemia patien
 
 ---
 
-### 📈 Inflation Forecasting in Peru using Machine Learning
 <a href="https://github.com/langulomogollon/inflation-forecasting-peru-random-forest">### 📈 Inflation Forecasting in Peru using Machine Learning</a>
 Research project aimed at predicting inflation behavior through economic indicators and predictive analytics techniques.
 
