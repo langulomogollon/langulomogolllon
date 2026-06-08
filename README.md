@@ -2,7 +2,7 @@
 
 # 👨‍💻 Leonardo Martín Angulo Mogollón
 
-### 📊 Senior Data Analyst | Data Analytics | Business Intelligence | SQL Server Specialist
+### 📊 Senior Data Analyst | Data Analytics | Machine Learning Engineer | SQL Server Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=DC2626&center=true&vCenter=true&width=800&lines=Data+Analyst;Business+Intelligence+Professional;SQL+Server+Specialist;Machine+Learning+Enthusiast;Databricks+Certified+Professional" />
 </div>
