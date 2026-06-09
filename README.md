@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 About Me
 
 Systems Engineer with experience in Data Analytics, Business Intelligence, and information management to support strategic decision-making.
 
@@ -91,7 +91,7 @@ Research project aimed at predicting inflation behavior through economic indicat
 <img src="https://streak-stats.demolab.com?user=langulomogollon&theme=tokyonight" />
 
 
-## 🎯 rofessional Interests
+## 🎯 Professional Interests
 
 ✔ Data Analytics  
 ✔ Business Intelligence  
