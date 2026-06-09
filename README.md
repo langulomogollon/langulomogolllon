@@ -11,15 +11,15 @@
 
 ## 🚀 Sobre mí
 
-Ingeniero de Sistemas con experiencia en análisis de datos, inteligencia de negocios y explotación de información para la toma de decisiones estratégicas.
+Systems Engineer with experience in Data Analytics, Business Intelligence, and information management to support strategic decision-making.
 
-Especializado en modelamiento de datos, SQL Server, Power BI y análisis avanzado, con interés en tecnologías modernas de Data Engineering, Databricks, Inteligencia Artificial y Machine Learning.
+Specialized in data modeling, SQL Server, Power BI, and advanced analytics, with a strong interest in modern Data Engineering technologies, Databricks, Artificial Intelligence, and Machine Learning.
 
 📍 Lima, Perú
 
 ---
 
-## 🏅 Certificaciones Databricks
+## 🏅 Databricks Certifications
 
 ![Databricks](https://img.shields.io/badge/Databricks-AI%20Agent%20Fundamentals-red?style=for-the-badge&logo=databricks)
 ![Databricks](https://img.shields.io/badge/Databricks-Azure%20Platform%20Architect-red?style=for-the-badge&logo=databricks)
@@ -29,7 +29,7 @@ Especializado en modelamiento de datos, SQL Server, Power BI y análisis avanzad
 
 ---
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
 ### Data Analytics
 
@@ -53,7 +53,7 @@ Especializado en modelamiento de datos, SQL Server, Power BI y análisis avanzad
 
 ---
 
-## 📂 Proyectos
+## 📂 Project
 
 ### 🔬 Leukemia Patient Mortality Prediction using Machine Learning
 
@@ -74,7 +74,7 @@ Research project aimed at predicting inflation behavior through economic indicat
 **Technologies:** Python, Pandas, Scikit-Learn, Machine Learning.
 
 
-## 🌐 Conecta conmigo
+## 🌐 Connect with Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/leonardo-martín-angulo-mogollón">
@@ -91,7 +91,7 @@ Research project aimed at predicting inflation behavior through economic indicat
 <img src="https://streak-stats.demolab.com?user=langulomogollon&theme=tokyonight" />
 
 
-## 🎯 Intereses Profesionales
+## 🎯 rofessional Interests
 
 ✔ Data Analytics  
 ✔ Business Intelligence  
