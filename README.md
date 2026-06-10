@@ -103,5 +103,5 @@ Research project aimed at predicting inflation behavior through economic indicat
 ✔ Economic Forecasting  
 
 ---
-
-> "Transforming data into insights that drive better decisions."
+<img src="https://readme-typing-svg.herokuapp.com?
+> "Transforming data into insights that drive better decisions."/>
