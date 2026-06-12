@@ -55,6 +55,8 @@ Specialized in data modeling, SQL Server, Power BI, and advanced analytics, with
 
 ## 📂 Project
 
+## 📂 Machine Learning
+
 ### 🔬 Leukemia Patient Mortality Prediction using Machine Learning
 
 [📂 View Repository](https://github.com/langulomogollon/leucemia-mortality-prediction)
