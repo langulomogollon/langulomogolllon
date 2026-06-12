@@ -76,6 +76,8 @@ Research project aimed at predicting inflation behavior through economic indicat
 **Technologies:** Python, Pandas, Scikit-Learn, Machine Learning.
 
 
+## 📂 SQL
+
 ## 🌐 Connect with Me
 
 <p align="left">
