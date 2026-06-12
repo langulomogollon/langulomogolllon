@@ -79,6 +79,7 @@ Research project aimed at predicting inflation behavior through economic indicat
 ## 📂 SQL
 
 ### 🔬 Bank-Fraud-Detection
+[📂 View Repository](https://github.com/langulomogollon/inflation-forecasting-peru-random-forest)
 
 ## 🌐 Connect with Me
 
