@@ -81,6 +81,10 @@ Research project aimed at predicting inflation behavior through economic indicat
 ### 🔬 Bank-Fraud-Detection
 [📂 View Repository](https://github.com/langulomogollon/Bank-Fraud-Detection-SQL-Server)
 
+Research project focused on identifying potentially fraudulent banking transactions through relational database design, advanced SQL analytics, and business rule implementation.
+
+**Technologies:** SQL Server, Python, SQL Analytics.
+
 ## 🌐 Connect with Me
 
 <p align="left">
