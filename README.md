@@ -78,6 +78,8 @@ Research project aimed at predicting inflation behavior through economic indicat
 
 ## 📂 SQL
 
+### 🔬 Bank-Fraud-Detection
+
 ## 🌐 Connect with Me
 
 <p align="left">
