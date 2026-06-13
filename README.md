@@ -115,4 +115,6 @@ Research project focused on identifying potentially fraudulent banking transacti
 
 ---
 
- "Transforming data into insights that drive better decisions."
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Transforming+data+into+insights+that+drive+better+decisions." alt="Typing SVG" />
+</p>
