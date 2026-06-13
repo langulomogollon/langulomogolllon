@@ -55,7 +55,7 @@ Specialized in data modeling, SQL Server, Power BI, and advanced analytics, with
 
 ## 📂 Project
 
-## 📂 Machine Learning
+## 🤖 Machine Learning
 
 ### 🔬 Leukemia Patient Mortality Prediction using Machine Learning
 
@@ -76,7 +76,7 @@ Research project aimed at predicting inflation behavior through economic indicat
 **Technologies:** Python, Pandas, Scikit-Learn, Machine Learning.
 
 
-## 📂 SQL
+## 🗄️ SQL
 
 ### 🚨 Bank-Fraud-Detection
 [📂 View Repository](https://github.com/langulomogollon/Bank-Fraud-Detection-SQL-Server)
