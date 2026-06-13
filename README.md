@@ -57,6 +57,16 @@ Specialized in data modeling, SQL Server, Power BI, and advanced analytics, with
 
 ## 🤖 Machine Learning
 
+###  📈 Inflation Forecasting in Peru using Machine Learning
+[📂 View Repository](https://github.com/langulomogollon/Bank-Fraud-Detection-SQL-Server)
+
+Research project aimed at predicting inflation behavior through economic indicators and predictive analytics techniques.
+
+**Technologies:** Python, Pandas, Scikit-Learn, Machine Learning.
+
+___________________________________________________________________________________________________________________________
+
+
 ### 🔬 Leukemia Patient Mortality Prediction using Machine Learning
 
 [📂 View Repository](https://github.com/langulomogollon/leucemia-mortality-prediction)
@@ -68,12 +78,7 @@ Machine Learning project focused on predicting mortality risk in leukemia patien
 ---
 
 
-###  📈 Inflation Forecasting in Peru using Machine Learning
-[📂 View Repository](https://github.com/langulomogollon/Bank-Fraud-Detection-SQL-Server)
 
-Research project aimed at predicting inflation behavior through economic indicators and predictive analytics techniques.
-
-**Technologies:** Python, Pandas, Scikit-Learn, Machine Learning.
 
 
 ## 🗄️ SQL
