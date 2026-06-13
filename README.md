@@ -113,3 +113,6 @@ Research project focused on identifying potentially fraudulent banking transacti
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FF0000&center=true&vCenter=true&width=550&lines=%F0%9F%93%8A+Transforming+data+into+decisions%2C+and+decisions+into+impact." alt="Typing SVG" />
+</p>
