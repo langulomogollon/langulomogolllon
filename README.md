@@ -114,10 +114,4 @@ Research project focused on identifying potentially fraudulent banking transacti
 ✔ Economic Forecasting  
 
 ---
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+Transforming+data+into+decisions%2C+and+decisions+into+impact." alt="Typing SVG" />
-</p>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=langulomogollon&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=langulomogollon&layout=compact&theme=tokyonight"/>
-</p>
+
