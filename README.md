@@ -99,8 +99,6 @@ Research project focused on identifying potentially fraudulent banking transacti
 
 </p>
 
-<img src="https://streak-stats.demolab.com?user=langulomogollon&theme=tokyonight" />
-
 
 ## 🎯 Professional Interests
 
