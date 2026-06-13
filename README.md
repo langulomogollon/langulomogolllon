@@ -114,7 +114,6 @@ Research project focused on identifying potentially fraudulent banking transacti
 ✔ Economic Forecasting  
 
 ---
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Transforming+data+into+insights+that+drive+better+decisions." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%F0%9F%93%8A+Transforming+data+into+decisions%2C+and+decisions+into+impact." alt="Typing SVG" />
 </p>
