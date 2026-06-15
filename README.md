@@ -77,7 +77,7 @@ Machine Learning project focused on predicting mortality risk in leukemia patien
 ---
 ## 📈 Data Analyst
 ### 📈 Global Inflation Analysis
-[📂 View Repository](https://github.com/langulomogollon/Bank-Fraud-Detection-SQL-Server)
+[📂 View Repository](https://github.com/langulomogollon/inflation-global)
 
 Historical inflation analysis across Peru, Latin America, and major global economies. This project uses Python, Pandas, and data visualization techniques to explore inflation trends, economic crises, and long-term macroeconomic patterns from 1960 to 2024.
 
