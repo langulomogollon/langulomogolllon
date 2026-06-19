@@ -72,7 +72,7 @@ Research project aimed at predicting inflation behavior through economic indicat
 
 Machine Learning project focused on predicting mortality risk in leukemia patients through classification algorithms and clinical data analysis.
 
-<br>**Technologies:** Python, Pandas, Scikit-Learn, Machine Learning.</br>
+**Technologies:** Python, Pandas, Scikit-Learn, Machine Learning.
 
 
 ---
