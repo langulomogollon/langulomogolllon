@@ -105,7 +105,13 @@ Business Intelligence solution designed to monitor Peru's key macroeconomic indi
 
 **Technologies:** SQL Server, Python, SSIS, DAX, REST APIs, star Schema.
 
+## 🗄️ Data Governance
 
+[📂 View Repository](https://github.com/langulomogollon/bcrp-data-quality-framework)
+
+is project implements a lightweight Data Governance framework inspired by central bank practices for managing macroeconomic expectations data.
+
+**Technologies:** SQL Server, Python, SSIS, DAX, REST APIs, star Schema.
 ## 🌐 Connect with Me
 
 <p align="left">
