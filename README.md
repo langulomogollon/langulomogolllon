@@ -58,7 +58,7 @@ Specialized in data modeling, SQL Server, Power BI, and advanced analytics, with
 ## 🤖 Machine Learning
 
 ###  📈 Inflation Forecasting in Peru using Machine Learning
-[📂 View Repository](https://github.com/langulomogollon/Bank-Fraud-Detection-SQL-Server)
+[📂 View Repository](https://github.com/langulomogollon/inflation-forecasting-peru-random-forest)
 
 Research project aimed at predicting inflation behavior through economic indicators and predictive analytics techniques.
 
