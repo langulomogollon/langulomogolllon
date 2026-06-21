@@ -98,7 +98,7 @@ Research project focused on identifying potentially fraudulent banking transacti
 **Technologies:** SQL Server, Python, SQL Analytics.
 
 
-## 🗄️ Power BI
+## 📊 Power BI
 
 ### 📊 BCRP Macroeconomic Dashboard
 [📂 View Repository](https://github.com/langulomogollon/BCRP-Macroeconomic-Dashboard)
