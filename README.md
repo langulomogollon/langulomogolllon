@@ -90,7 +90,7 @@ Research project aimed at predicting inflation behavior through economic indicat
 
 ## 🗄️ SQL
 
-### 🚨 Bank-Fraud-Detection
+### 🚨 Bank Fraud Detection
 [📂 View Repository](https://github.com/langulomogollon/Bank-Fraud-Detection-SQL-Server)
 
 Research project focused on identifying potentially fraudulent banking transactions through relational database design, advanced SQL analytics, and business rule implementation.
@@ -100,7 +100,7 @@ Research project focused on identifying potentially fraudulent banking transacti
 
 ## 🗄️ Power BI
 
-### 🗄️ BCRP-Macroeconomic-Dashboar
+### 🗄️ BCRP Macroeconomic Dashboard
 [📂 View Repository](https://github.com/langulomogollon/BCRP-Macroeconomic-Dashboard)
 
 Business Intelligence solution designed to monitor Peru's key macroeconomic indicators through an interactive dashboard developed in Power BI.
