@@ -100,7 +100,7 @@ Research project focused on identifying potentially fraudulent banking transacti
 
 ## 🗄️ Power BI
 
-### 🗄️ BCRP Macroeconomic Dashboard
+### 📊 BCRP Macroeconomic Dashboard
 [📂 View Repository](https://github.com/langulomogollon/BCRP-Macroeconomic-Dashboard)
 
 Business Intelligence solution designed to monitor Peru's key macroeconomic indicators through an interactive dashboard developed in Power BI.
