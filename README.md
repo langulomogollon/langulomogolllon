@@ -97,6 +97,7 @@ Research project focused on identifying potentially fraudulent banking transacti
 
 **Technologies:** SQL Server, Python, SQL Analytics.
 
+---
 
 ## 📊 Power BI
 
@@ -107,6 +108,7 @@ Business Intelligence solution designed to monitor Peru's key macroeconomic indi
 
 **Technologies:** SQL Server, Python, SSIS, DAX, REST APIs, star Schema.
 
+---
 
 ## 🏛️ Data Governance
 
@@ -116,6 +118,8 @@ Business Intelligence solution designed to monitor Peru's key macroeconomic indi
 This project implements a lightweight Data Governance framework inspired by central bank practices for managing macroeconomic expectations data.
 
 **Technologies:** SQL Server, Python, SSIS, DAX, REST APIs, star Schema.
+
+---
 
 ## 🌐 Connect with Me
 
