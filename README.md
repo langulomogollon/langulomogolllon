@@ -100,7 +100,7 @@ Research project focused on identifying potentially fraudulent banking transacti
 
 ## 🗄️ Power BI
 
-### 🗄️ BCRP-Macroeconomic-Dashboard
+### 🗄️ BCRP-Macroeconomic-DashboarG
 [📂 View Repository](https://github.com/langulomogollon/BCRP-Macroeconomic-Dashboard)
 
 Business Intelligence solution designed to monitor Peru's key macroeconomic indicators through an interactive dashboard developed in Power BI.
@@ -111,6 +111,7 @@ Business Intelligence solution designed to monitor Peru's key macroeconomic indi
 ## 🗄️ Data Governance
 
 🏛️ Business Framework for Data Governance and Data Quality for Central Bank Information (BCRP)
+
 [📂 View Repository](https://github.com/langulomogollon/bcrp-data-quality-framework)
 
 This project implements a lightweight Data Governance framework inspired by central bank practices for managing macroeconomic expectations data.
