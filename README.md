@@ -88,8 +88,10 @@ Research project aimed at predicting inflation behavior through economic indicat
 
 <br>
 
-### 📈 Visualizaciones de Satisfaccion del Cliente
+### 📈 Customer Satisfaction Analytics
 [📂 View Repository](https://github.com/langulomogollon/AWS-S3-Databricks-PySpark-ETL-Pipeline)
+
+Developed customer satisfaction visualizations using Databricks and Amazon S3. Leveraged PySpark to ingest and transform data from Amazon S3, enabling efficient data analysis and reporting.
 
 **Technologies:** Python, Pandas, Pyspark, AWS
 ---
