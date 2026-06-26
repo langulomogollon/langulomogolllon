@@ -88,7 +88,7 @@ Research project aimed at predicting inflation behavior through economic indicat
 
 <br>
 ### 📈 Visualizaciones de Satisfaccion del Cliente
-[📂 View Repository]([[https://github.com/langulomogollon/inflation-global](https://github.com/langulomogollon/AWS-S3-Databricks-PySpark-ETL-Pipeline/blob/main/README.md](https://github.com/langulomogollon/AWS-S3-Databricks-PySpark-ETL-Pipeline)))
+[📂 View Repository](https://github.com/langulomogollon/AWS-S3-Databricks-PySpark-ETL-Pipeline)
 **Technologies:** Python, Pandas, Pyspark, AWS
 ---
 
