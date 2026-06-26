@@ -93,7 +93,9 @@ Research project aimed at predicting inflation behavior through economic indicat
 
 Developed customer satisfaction visualizations using Databricks and Amazon S3. Leveraged PySpark to ingest and transform data from Amazon S3, enabling efficient data analysis and reporting.
 
-**Technologies:** Python, Pandas, Pyspark, AWS
+**Technologies:** Python, Pandas, Pyspark, AWS-S3
+
+<br>
 ---
 
 ## 🗄️ SQL
